@@ -40,7 +40,7 @@ body{
   background-repeat: no-repeat;
   top: 430px;
   left: 300px;
-  animation: shake linear .3s infinite;
+/*   animation: shake linear .3s infinite; */
 }
 .wheel img {
   width: 77px;
